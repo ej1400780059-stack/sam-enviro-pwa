@@ -91,6 +91,7 @@ body{
 .etp{border-left-color:#16A34A;}
 .stp{border-left-color:#2563EB;}
 .etpro{border-left-color:#F97316;}
+.ro{border-left-color:#8B5CF6;}
 
 .card-left{display:flex;align-items:center;flex:1;}
 
@@ -111,6 +112,7 @@ body{
 .green-bg{background:#ECFDF3;}
 .blue-bg{background:#EFF6FF;}
 .orange-bg{background:#FFF7ED;}
+.purple-bg{background:#F3E8FF;}
 
 .card-icon img{
     width:100px;
@@ -127,6 +129,7 @@ body{
 .green-text{color:#16A34A;}
 .blue-text{color:#2563EB;}
 .orange-text{color:#F97316;}
+.purple-text{color:#8B5CF6;}
 .card-info h4{font-size:26px;color:#1E293B;margin-bottom:12px;font-weight:600;}
 .card-info p{color:#64748B;font-size:18px;line-height:1.7;max-width:650px;}
 
@@ -149,6 +152,8 @@ button:hover{transform:translateY(-2px);}
 .blue-btn:hover{background:#1D4ED8;}
 .orange-btn{background:#F97316;}
 .orange-btn:hover{background:#EA580C;}
+.purple-btn{background:#8B5CF6;}
+.purple-btn:hover{background:#7C3AED;}
 
 footer{
     margin-top:70px;
