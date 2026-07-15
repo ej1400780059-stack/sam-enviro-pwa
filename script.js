@@ -16,6 +16,9 @@ const STP_URL =
 const ETPRO_URL =
 "https://script.google.com/macros/s/AKfycbx_jQaQymr6mdrml5VowoGryk_jvgcB-RSVXZWG66jo_ga2kZAPS41bJqq4sFAayK9_/exec";
 
+const RO_URL =
+"https://script.google.com/macros/s/AKfycbxL2WCse4PXSWBtVhCSbzaJBb0NAfiP3-d_M8bB2p6cHguVd8Y2pg2OFTN1Zn_UvhvhMw/exec";
+
 
 /* ==========================================
    OPEN REPORT FORMS
@@ -39,6 +42,11 @@ function openETPRO() {
 
 }
 
+function openRO() {
+
+    window.location.href = RO_URL;
+
+}
 
 /* ==========================================
    PAGE LOADED
